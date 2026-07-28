@@ -209,6 +209,16 @@ The developed MATLAB GUI provides:
 </p>
 ---
 
+# 🔄 Overall Workflow
+
+<p align="center">
+  <img src="Fig1_Overall_Workflow_Ultrasonic_Weld_Quality_Analytics.png" width="850">
+</p>
+
+<p align="center">
+<b>Figure 2.</b> Overall workflow of the proposed Ultrasonic Weld Quality Analytics Platform.
+</p>
+
 # ⚙️ Requirements
 
 - MATLAB R2023a (or newer)
