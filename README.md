@@ -198,21 +198,15 @@ The developed MATLAB GUI provides:
 
 ---
 
-# 📸 Screenshots
+# 🖥️ Main Graphical User Interface
 
-## Main GUI
+<p align="center">
+  <img src="MainGUI.png" alt="Ultrasonic Weld Quality Analytics Platform GUI" width="900">
+</p>
 
-> Replace the image below with your uploaded screenshot.
-
-```text
-screenshots/GUI_Result.png
-```
-
-Or use:
-
-```markdown
-![GUI](screenshots/GUI_Result.png)
-```
+<p align="center">
+<b>Figure 1.</b> Main MATLAB GUI of the Ultrasonic Weld Quality Analytics Platform showing image preprocessing, defect visualization, machine learning prediction, confidence estimation, quality assessment, and automated inspection reporting.
+</p>
 ---
 
 # ⚙️ Requirements
