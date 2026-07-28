@@ -212,7 +212,7 @@ The developed MATLAB GUI provides:
 # 🔄 Overall Workflow
 
 <p align="center">
-  <img src="Fig1_Overall_Workflow_Ultrasonic_Weld_Quality_Analytics.png" width="850">
+  <img src="Fig1_Overall_Workflow_Ultrasonic_Weld_Quality_Analytics_Platform.png" width="850">
 </p>
 
 <p align="center">
