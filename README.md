@@ -232,7 +232,7 @@ The developed MATLAB GUI provides:
 The complete internship report is available in:
 
 ```text
-docs/Internship_Report.pdf
+Docs/Sagar_Sant_23035010233_Ultrasonic_Weld_Quality_Analytics_Platform.pdf
 ```
 
 ---
