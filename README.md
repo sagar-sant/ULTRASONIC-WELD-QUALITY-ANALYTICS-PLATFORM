@@ -274,9 +274,8 @@ If you use this project in your research or academic work, please cite:
 ```text
 Sagar Sant,
 "Ultrasonic Weld Quality Analytics Platform Using Machine Learning and Digital Image Processing,"
-Internship Project Report,
-Indian Institute of Technology Guwahati,
-2026.
+Project Report,
+Indian Institute of Technology Guwahati, 2026.
 ```
 
 ---
